@@ -14,5 +14,8 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre a relação entre o Ciclo
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
+Link para acesso:
+https://github.com/CarinaMinetto/DIO/blob/main/Como-o-Ciclo-PDCA-Potencializa-o-Design-Thinking.pdf
+
 ## 💭 Reflexão (Opcional)
 Criar este e-book com o potencial criativo das IAS facilita muito o processo e gera economia de tempo
